@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="true" project-jdk-name="9.0" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Scala_Programming/forcomp" value="1462313212000" />
+        <entry key="$PROJECT_DIR$/../../Scala_Programming/funsets" value="1462348640000" />
+        <entry key="$PROJECT_DIR$/../../Scala_Programming/objsets" value="1462351646000" />
+        <entry key="$PROJECT_DIR$/../../Scala_Programming/patmat" value="1462408864000" />
+        <entry key="$PROJECT_DIR$/../../Scala_Programming/progfun" value="1486325137000" />
+        <entry key="$PROJECT_DIR$/../../Scala_Programming/recfun" value="1462401530000" />
+        <entry key="$PROJECT_DIR$/../../scala_class" value="1485562927000" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+</project>
